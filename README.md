@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me via my email
 - 😄 Pronouns:
-- ⚡ Fun fact: I am an Accounant 
+- ⚡ Fun fact: I am an Accountant 
 
 <!---
 UnyimeKanem/UnyimeKanem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
